@@ -1,0 +1,202 @@
+<form class="onlineRegistration text-left" method="post" action="preview_reg.php">
+                        
+                          <div class="row">
+                            
+                              <div class="col-md-6">
+                                  <input type="text" placeholder="Enter First Name" name="fname" required tabindex="1">
+                                  <select name="course" tabindex="3">
+                                      <option value="SelectCourse">Select Course</option>
+                                      <option value="3DMax">3D Studio Max</option>
+                                      <option value="AdDigitalSystemDesign">Adv. Digital System Design</option>
+                                      <option value="AdvanceQTP">Advance QTP</option>
+                                      <option value="Advancedigitalmarketing">Advance Digital Marketing</option>
+                                      <option value="AdobeFlex">Adobe Flex-3.0</option>
+                                      <option value="Android">Android</option>
+                                      <option value="Autocad">Autocad</option>
+                                       <option value="Azure">Azure</option>
+                                       <option value="Angular4">Angular 4</option>
+                                      <option value="BICognos">BI Cognos 8.4</option>
+                                      <option value="Bigdatahadoop">Bigdata Hadoop</option>
+                                      <option value="Bigdata">Bigdata</option>
+                                      <option value="C_Language">C Language</option>
+                                     <option value="CAD_Customization">CAD Customization</option>
+                                      <option value="CAD_Mechanical">CAD Mechanical Six Months</option>
+                                      <option value="CAD_Civil_SM">CAD_Civil_SM</option>
+                                      <option value="CAKE_PHP">CAKE PHP</option>
+                                      <option value="CCNA">CCNA</option>
+                                      <option value="CCNP">CCNP</option>
+                                      <option value="ASAFIREWALL">ASAFIREWALL</option>
+                                      <option value="CHECKPOINT">CHECKPOINT</option>
+                                      <option value="CCNASECURITY">CCNASECURITY</option>
+                                      <option value="PALOALTO">PALOALTO</option>
+                                      <option value="Catia">Catia</option>
+                                      <option value="Cloud_Computing_sixWeeks">Cloud Computing six Weeks</option>
+                                      <option value="Cloud_Computing">Cloud Computing Full Course</option>
+                                      <option value="Cmos_Based_Design">Cmos Based Design</option>
+                                      <option value="Coreldraw">Coreldraw</option>
+                                      <option value="C++_Language">C++ Language</option>
+                                      <option value="Dataware_Housing">Dataware Housing</option>
+                                      <option value="Data_Structures"> Data Structures</option>
+                                      <option value="Digital_Marketing">Digital Marketing</option>
+                                      <option value="DIIPP">DIIPPg</option>
+                                    <option value="Learn_and_earn">Learn_and_earn</option>
+                                      <option value="Diplomainhardwarenetworking">Diploma in Hardware Networking</option>
+                                      <option value="Devops">Devops</option>
+<option value="Deeplearning">Deep Learning</option>
+<option value="Deeplearninginpython">Deep Learning in python</option>
+                                      <option value="Flash_Action">Flash Action</option>
+                                      <option value="Flash_Basic">Flash Basic</option>
+                                      <option value="Gdandtraining">GD & Training</option>
+                                      <option value="HR_GENERALIST">HR GENERALIST</option>
+                                      <option value="Apache_Hadoop">Apache Hadoop</option>
+                                      <option value="IBM_MAINFRAME">IBM MAINFRAME</option>
+                                      <option value="I_Phone">I-Phone</option>
+                                      <option value="Illistrator">Illistrator</option>
+                                      <option value="Indesign">Indesign</option>
+                                      <option value="Iot">IOT</option>
+                                      <option value="JAVA_UI">JAVA UI</option>
+<option value="Datascienceusingpython">Data science using Python</option>
+<option value="Digitalmarketing6weeks">digitalmarketing6weeks</option>
+<option value="Androidsummertraining">Android 6 weeks</option>
+<option value="Javaexpert">Java Expert</option>
+ <option value="Javaexpert">Java Beginners</option>
+<option value="Javawithandroidtraining">Java with Android</option>
+<option value="Javawithangular4training">Java with Angular4</option>
+<option value="Javawithsqltraining">Java with SQL</option>
+<option value="Phpwithangular4training">PHP with Angular4</option>
+<option value="python6weekstraining">Python 6 weeks</option>
+<option value="pythonwithmachinelearning">Python with machine learning</option>
+<option value="pythonwithselenium">Python with Selenium</option>
+<option value="pythonwithiottraining">Python with IOT</option>
+<option value="programmaticdevelopers">PROGRAMMATIC DEVELOPMENT USING APEX AND</option>
+<option value="javatwomonthstraining">Java 2 Months</option>
+<option value="Declarativedevelopment">Declarative Development for Platform App Builders</option>
+<option value="awstraining">AWS Training</option>
+<option value="Administrationessentials">ADMINISTRATION ESSENTIALS FOR NEW ADMINS</option>
+<option value="LIGHTNINGCOMPONENTS">PROGRAMMING LIGHTNING COMPONENTS</option>
+<option value="datascienceusingpython">Data science using Python</option>
+<option value="pythonwithmachinelearning">Machine learning With Python</option>
+<option value="plsql">PLSQL</option>
+                                      <option value="JAVA_J2EE">JAVA J2EE</option>
+                                      <option value="JAVA_Hadoop">COREJAVA Hadoop</option>
+                                      <option value="JAVA_Android_kotlin">JAVA Android Kotlin</option>
+                                      <option value="Corejava">CORE JAVA</option>
+                                      <option value="JAVA_Spring_Hibernate">JAVA Spring &amp; Hibernate</option>
+                                      <option value="Java_six_Months">Java six Months</option>
+                                      <option value="Java6w">Java6w</option>
+                                      <option value="MCITP">MCITP</option>
+                                      <option value="MCSE">MCSE</option>
+                                      <option value="MCSA_2016">MCSA 2016 </option>
+                                      <option value="Magento_PHP">Magento PHP</option>
+                                      <option value="Matlab">Matlab</option>
+                                        <option value="Arduino">Arduino</option>
+                                      <option value="Multimedia_Animation">Multimedia Animation</option>
+                                      <option value="Networking_Six_Months">Networking Six Months</option>
+                                      <option value="PHP_Six_Months">PHP Six Months</option>
+                                      <option value="PHP_SIX_WEEKS">PHP SIX WEEKS</option>
+                                      <option value="PHP_ad">PHP ++</option>
+                                      <option value="PLC_SCADA_3_months">PLC SCADA 3 months</option>
+                                      <option value="PLC_SCADA_FULL_COURCE">PLC SCADA FULL COURCE</option>
+                                      <option value="PLC_SCADA_six_weeks">PLC SCADA six weeks</option>
+                                      <option value="Primaverproject_Planner">Primaverproject Planner</option>
+                                      <option value="Python">Python</option>
+                                      <option value="rprogramming">R Programming</option>
+                                      <option value="RHCVA">RHCVA</option>
+                                       <option value="RHCE">RHCE</option>
+                                     <option value="RANDDATAANALYTICS">R AND DATA ANALYTICS</option>
+                                      <option value="Ravit_Architecture">Ravit Architecture</option>
+                                      <option value="SAS">SAS</option>
+                                      <option value="SAS_BI">SAS BI</option>
+                                      <option value="SEO">SEO</option>
+                                      <option value="SE_PD">SE-PD(Personality Dev.)</option>
+                                      <option value="SOAP">SOAP-UI Testing</option>
+                                       <option value="Selenium">Selenium</option>
+                                      <option value="SQT_Six_Months">SQT Six Months</option>
+                                      <option value="SQT_Six_weeks">SQT Six weeks</option>
+                                      <option value="Sharepoint_Development">Sharepoint Development</option>
+                                      <option value="Sharepoint_Admin">Sharepoint Admin</option>
+                                      <option value="Silverlight_4">Silverlight 4.0</option>
+                                      <option value="Solidworks">Solidworks</option>
+                                      <option value="SQL_Server_Dba">SQL Server DBA</option>
+                                      <option value="TIBCO">TIBCO</option>
+                                      <option value="UNIX_SHELL_Scripting">UNIX SHELL Scripting</option>
+                                      <option value="Unigraphics">Unigraphics</option>
+                                      <option value="VLSI_Design_Flow">VLSI Design Flow</option>
+                                      <option value="ZEND_PHP">ZEND PHP</option>
+                                      <option value="NET_six_Months">.NET Six Months</option>
+                                      <option value="NET_Four_Months">.NET 4 Months</option>
+                                       <option value="Adv_NET_MVC">Adv .NET MVC</option>
+                                        <option value="Upgrade_mvc">Upgrade MVC 1 Month</option>
+                                      <option value="NET_six_weeks">.NET Six weeks</option>
+                                      <option value="Embedded_3Months">Embedded 3.6 Months</option>
+                                      <option value="Embedded_Six_Months">Embedded Six Months</option>
+                                      <option value="Embedded_six_Weeks">Embedded six Weeks</option>
+                                      <option value="ERP_Level_2">ERP Level-2</option>
+                                      <option value="ERPscm">ERP SCM</option>
+                                      <option value="oracle_11G">oracle 11G</option>
+                                      <option value="oracle_12C_DBA">oracle 12C DBA</option>
+                                      <option value="oracle_11G_RAC">oracle 11G RAC</option>
+                                      <option value="oracle_app_Financials">oracle app's XII Financials</option>
+                                      <option value="oracle_app_MFG">oracle app's XII MFG</option>
+                                      <option value="oracle_app_Tecnical">oracle app's XII Tecnical</option>
+                                      <option value="photoshop">photoshop</option>
+                                      <option value="Python">Python</option>
+                                      <option value="AdvPython">Adv. Python</option>
+                                       <option value="tally_erp">Tally erp 9</option>
+                                      <option value="Django">Django</option>
+                                      <option value="Pythondjango">Python Django</option>
+                                      <option value="Perl_Script">Perl Script</option>
+                                      <option value="Drupal">Drupal</option>
+                                      <option value="Joomla">Joomla</option>
+                                      <option value="big_Commerce">Big Commerce</option>
+                                      <option value="Smarty">Smarty</option>
+                                      <option value="Wordpress">Wordpress</option>
+                                      <option value="Workshop Python">Workshop Python</option>
+                                       <option value="Workshop_Cloud">Workshop Cloud</option>
+                                      <option value="pro_e">pro-e</option>
+                                      <option value="Redhat_Linux_7">Redhat Linux 7.0</option>
+                                      <option value="ROBOTICS_COURSE">ROBOTICS COURSE</option>
+                                      <option value="Software_Quality_Testing">Software Quality Testing</option>
+                                      <option value="Staad_pro">Staad Pro</option>
+                                      <option value="UI">UI</option>
+                                      <option value="UIandangularjs">UI and Angularjs</option>
+                                      <option value="Mean">Mean</option>
+                                      <option value="Machinelearning">Machinelearning</option>
+                                      <option value="DATA_SCIENCE_USING_R_PROGRAMMING">DATA SCIENCE USING R PROGRAMMING</option>
+                                      <option value="DATA_SCIENCE_MACHINE_LEARNING_USING_R_PROGRAMMING">DATA SCIENCE & MACHINE LEARNING USING R PROGRAMMING</option>
+                                      <option value="MACHINE_LEARNING_USING_R_PROGRAMMING">MACHINE LEARNING USING R PROGRAMMING</option>
+                                        <option value="MIS">MIS</option>
+                                    <option value="Manual_Selenium">Manual + Selenium</option>
+                                      <option value="Angularjs">Angularjs</option>
+                                       <option value="Xamarin">Xamarin</option>
+                                       <option value="other">Other</option>
+                                  </select> 
+                                  <input type="text" placeholder="Address" name="message" required tabindex="5">                                 
+                                  <input type="text" placeholder="Enter State" name="state" required tabindex="7">                                 
+                                  <input type="text" placeholder="Enter Zip Code" name="zipcode" required tabindex="9">                                 
+                                  <input type="text" placeholder="Enter Email Address" name="email" required tabindex="11">                                        
+                              </div> <!-- End Of Col MD 6 -->
+                              <div class="col-md-6">
+                                  <input type="text" placeholder="Enter Last Name" name="lname" required tabindex="2">
+                                  <select name="branch" tabindex="4">
+                                      <option value="Select Branch">Select Branch</option>
+                                      <option value="Noida">Noida</option>
+                                      <option value="Faridabad">Faridabad</option>
+                                      <option value="Ghaziabad">Ghaziabad</option>
+                                      <option value="Greater Noida">Greater Noida</option>
+                                      <option value="Gurgaon">Gurgaon</option>
+                                      
+                                  </select>
+                                  <input type="text" placeholder="Enter Town/City" name="city" required tabindex="6">
+                                  <input type="text" placeholder="Enter Country" name="country" required tabindex="8">
+                                  <input type="text" placeholder="Enter Phone Number" name="telephone" required tabindex="10">
+                                  <input type="text" placeholder="Enter Amount" name="regammount" pattern="[0-9]{1,10}" required tabindex="12">
+                              </div> <!-- End Of Col MD 6 -->
+                              
+                              <div class="col-md-12">
+                                  <input type="submit" value="Submit" name="submitReg">
+                              </div> <!-- End Of Col MD 6 -->
+
+                          </div> <!-- End Of Row -->
+
+                      </form> 
